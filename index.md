@@ -17,9 +17,9 @@
 </script>
 {% endraw %}
 
-- Canopy: $(\int E_x t + \epsilon_x + C_x)$ Value - Flourishing
-- Branches: $(\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{dE_x}{dt}})$ Acceleration - GPUs/TPUs
-- Trunk: $(\frac{dE_x}{dt})$ Bottleneck - CPUs
-- Roots: $(E(t \| x) + \epsilon$ Processing - APIs
-- Soil: $(E, x)$ Data - Sovereign, Place, Time (+ Wearables & The-Like)
+- Canopy/System: $(\int E_x t + \epsilon_x + C_x)$ Value - Flourishing
+- Branches/Übermensch: $(\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{dE_x}{dt}})$ Acceleration - GPUs/TPUs
+- Trunk/Man: $(\frac{dE_x}{dt})$ Bottleneck - CPUs
+- Roots/Animal: $(E(t \| x) + \epsilon$ Processing - APIs
+- Soil/Forest: $(E, x)$ Data - Sovereign, Place, Time (+ Wearables & The-Like)
 
